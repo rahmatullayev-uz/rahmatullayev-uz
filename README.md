@@ -9,3 +9,4 @@
   <strong>I am Rahmatullayev Sardor</strong>
 </h3>
 
+I'm Sardor, now, i'm learning new technologies and use all new technologies in real-life
